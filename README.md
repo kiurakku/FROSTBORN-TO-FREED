@@ -19,3 +19,10 @@ This repository contains visual materials, branding, and concept artifacts for t
 ## Status
 
 Active concept/branding workspace. Technical implementation components may live in separate repositories.
+
+## Testing
+
+This repository is concept/branding focused, so CI validates repository health:
+
+- required docs present (`README.md`, `LICENSE`)
+- workflow runs on push/PR
